@@ -75,7 +75,7 @@ void turnDegrees(int degrees){
       break;
     }
   }
-}
+} // HII
 
 void startMoving(){
   LeftMovement.setVelocity(100, velocityUnits::pct);
